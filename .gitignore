@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+
+# virtualenv
+venv/
+env/
+
+|# envirment folea 
+.env
+*.env
+
+# logs 
+.logs 
+
+# ju`pyter notebook checkpoints
+.ipynb_checkpoints
+
+archive
